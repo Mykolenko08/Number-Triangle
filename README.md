@@ -3,5 +3,9 @@ A simple C# program that draws a triangle made of numbers
 
 [`Program.cs`](https://github.com/Mykolenko08/Number-Triangle/blob/main/Program.cs)
 
+![img](4.png)
+
+
 ![img](1.png)
+
 ![img](2.png)
